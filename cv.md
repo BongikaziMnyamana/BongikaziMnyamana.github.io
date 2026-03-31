@@ -10,14 +10,14 @@
 
 ## 🎓 Education
 
-**Diploma in Information and Communication Technology (Application Development)** *(Current)*  
-Cape Peninsula University of Technology, Cape Town  
+**National Senior Certificate (Grade 12)** *(2021)*  
+Cofimvaba High School, Eastern Cape  
 
 **Higher Certificate in Information & Communication Technology**  
 Cape Peninsula University of Technology  
 
-**National Senior Certificate (Grade 12)** *(2021)*  
-Cofimvaba High School, Eastern Cape  
+**Diploma in Information and Communication Technology (Application Development)** *(Current)*  
+Cape Peninsula University of Technology, Cape Town  
 
 ---
 
