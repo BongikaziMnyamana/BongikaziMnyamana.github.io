@@ -37,7 +37,7 @@ My goal is to gain practical experience through Work Integrated Learning (WIL) a
 
 | | |
 | :---: | :--- |
-| 📄 **To View My CV** | [Click here to view my CV](https://github.com/wil-it-2026/cv-submission-BongikaziMnyamana/blob/main/CV%20Bongikazi%20M.pdf.pdf) |
+| 📄 **To View My CV** | [Click here to view my CV](https://github.com/BongikaziMnyamana/BongikaziMnyamana.github.io/blob/main/cv.md) |
 
 ## 🎥 Mock Interview Video
 
