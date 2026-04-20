@@ -142,6 +142,13 @@ and the exercise built my self-awareness as a future job candidate in the
 IT industry.
 
 ---
+## Published on GitHub Pages — Evidence
+
+My digital portfolio is live and published on GitHub Pages:
+
+**Live Site:** [https://bongikazimnyamana.github.io/](https://bongikazimnyamana.github.io/)
+
+![GitHub Pages Evidence](github-pages.png)
 
 ## Published on GitHub Pages Reflection
 
