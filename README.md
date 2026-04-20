@@ -107,9 +107,12 @@ structured content using lightweight markup languages.
 
 ---
 ## Mock Interview Video
-<video width="600" controls>
-  <source src="[Mock-interview-video.mp4](https://drive.google.com/file/d/1mYG_lWN_vW3p4zuUQfL6cG0Cjq_8ryR4/view?usp=sharing)" type="video/mp4">
-</video>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1mYG_lWN_vW3p4zuUQfL6cG0Cjq_8ryR4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Mock%20Interview-Click%20Here-red?style=for-the-badge"
+    alt="Mock Interview Video"/>
+  </a>
+</div>
 
 ## Mock Interview Video Reflection
 
