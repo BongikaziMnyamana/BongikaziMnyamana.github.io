@@ -1,3 +1,10 @@
+## GitHub Student Account
+
+![GitHub Profile Screenshot](github-profile.png)
+
+**Username:** BongikaziMnyamana  
+**GitHub Profile:** [github.com/BongikaziMnyamana]([https://github.com/BongikaziMnyamana]
+
 # Bongikazi Malebu Mnyamana
 
 📧 222718404@mycput.ac.za  
