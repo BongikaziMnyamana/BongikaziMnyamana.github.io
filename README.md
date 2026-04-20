@@ -73,5 +73,5 @@ Pastor
 ✉️ esethudericsicetsha@gmail.com  
 
 <video width="600" controls>
-  <source src="Mock Interview Video.mp4" type="video/mp4">
+  <source src="Mock interview video.mp4" type="video/mp4">
 </video>
