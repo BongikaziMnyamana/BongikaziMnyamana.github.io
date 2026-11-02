@@ -226,7 +226,7 @@ GugsLocalConnect is a community platform that connects residents of Gugulethu wi
 ## Agile Team Charter
 
 ### Evidence
-[View my Agile Team Charte)](https://github.com/BongikaziMnyamana/BongikaziMnyamana.github.io/blob/main/PRP3_TEAM_CHARTER..docx)
+[View my Agile Team Charter)](https://github.com/BongikaziMnyamana/BongikaziMnyamana.github.io/blob/main/PRP3_TEAM_CHARTER..docx)
 
 The charter sets out the purpose of GugsLocalConnect, the six team roles, our core values (collaboration, respect, transparency, accountability and continuous improvement), a communication plan (daily stand-ups, a weekly sprint review and a sprint retrospective), a SMART goal and a 14-week milestone plan.
 
