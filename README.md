@@ -210,12 +210,12 @@ academic and professional projects.
 
 ---
 
-# Agile Project Portfolio: GugsLocalConnect
+# Semester 2- Entrepreneurial WIL Project: GugsLocalConnect
 
 ## Project Context
 GugsLocalConnect is a community platform that connects residents of Gugulethu with trusted local businesses and service providers. Our team of six worked in Agile sprints and managed the work on a Trello board. **My role was Agile Lead**, responsible for facilitating Agile meetings and encouraging teamwork and communication.
 
-**Project links:**
+**Project Evidence:**
 - Task board (Trello): https://trello.com/b/HIAaT2dR/gugslocalconnect-task-board
 - Live application: https://gug-local-connect1-ashen.vercel.app/
 - Frontend repository: https://github.com/BongikaziMnyamana/GugLocalConnect1
