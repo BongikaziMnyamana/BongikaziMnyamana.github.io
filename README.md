@@ -170,7 +170,7 @@ My digital portfolio is live and published on GitHub Pages.
 
 ---
 
-# Agile Project Portfolio: GugsLocalConnect
+# Semester 2- Entrepreneurial WIL Project: GugsLocalConnect
 
 ## Project Context
 
